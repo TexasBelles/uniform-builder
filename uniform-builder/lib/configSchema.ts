@@ -1,0 +1,1 @@
+// configSchema.ts placeholder
